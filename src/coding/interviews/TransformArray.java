@@ -20,5 +20,8 @@ public class TransformArray {
 	 * for example it is not possible with [1,4,7] to equalise elements to one number. 
 	 * In Such cases it should return -1
 	 * 
+	 * Need to find out whats the target value possible and what is the cost - number of steps 
+	 * to achieve the target. 
+	 * 
 	 */
 }
